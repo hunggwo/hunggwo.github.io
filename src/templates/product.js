@@ -10,7 +10,7 @@ const SecondPage = ({data}) => {
 
   return (
     <Layout>
-      <SEO title={`弘國廣告 - node.frontmatter.title`} />
+      <SEO title={`${node.frontmatter.title}`} />
       <Link to="/">⃪ 回首頁</Link>
       <hr></hr>
       <div>
