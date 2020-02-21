@@ -8,6 +8,7 @@
 .one-item img {
   height: calc(100% - 45px);
   margin: 0;
+  box-shadow: 0 .125rem .25rem rgba(0,0,0,.75)!important;
 }
 
 .one-item  .one-item-name {
